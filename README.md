@@ -102,14 +102,11 @@ plt.show()
 ### OUTPUT:
 
 
-### TEST_PREDICTION
+### TEST AND FINAL_PREDICTION
 
 ![376123796-d308b74e-2274-4254-b55c-3f2aa0342426](https://github.com/user-attachments/assets/5c509e16-416c-404f-9acf-cb0010fea44b)
 
 
-### FINAL_PREDICTION
-
-![376123796-d308b74e-2274-4254-b55c-3f2aa0342426](https://github.com/user-attachments/assets/e7db3c2b-c2d2-4409-b1fc-d20aabda337c)
 
 ### RESULT:
 Thus, the program to forecast sales using the Holt-Winters method and calculate the Test and Final Prediction is executed successfully.
